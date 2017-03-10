@@ -1,0 +1,15 @@
+{
+  "name": "er-html",
+  "version": "1.0.0",
+  "description": "Html estructure for an emergency web site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pablo Ledesma",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
